@@ -126,22 +126,22 @@ private static final String PASSWORD = "your_password";
 
 ### Console-Based Application (`ExpenseTrackerApp`)
 #### Add Income/Expense
-![Console Add](screenshots/console_add.png)
+![Console Add](screenshots/console_add.PNG)
 
 #### Monthly Summary
-![Console Summary](screenshots/console_summary.png)
+![Console Summary](screenshots/console_summary.PNG)
 
 ---
 
 ### GUI Application (`ExpenseTrackerSwingApp`)
 #### Add Transaction
-![Swing Add](screenshots/swing_add.png)
+![Swing Add](screenshots/swing_add.PNG)
 
 #### Monthly Summary
-![Swing Summary](screenshots/swing_summary.png)
+![Swing Summary](screenshots/swing_summary.PNG)
 
 #### Load/Save
-![Swing LoadSave](screenshots/swing_loadsave.png)
+![Swing LoadSave](screenshots/swing_loadsave.PNG)
 
 
 ---
